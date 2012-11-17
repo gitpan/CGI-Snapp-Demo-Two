@@ -29,7 +29,7 @@
          "requires" : {
             "CGI" : "3",
             "CGI::Emulate::PSGI" : "0.14",
-            "CGI::Snapp" : "1.02",
+            "CGI::Snapp" : "1.03",
             "parent" : "0",
             "strict" : "1.03",
             "warnings" : "1.03"
@@ -39,14 +39,14 @@
    "provides" : {
       "CGI::Snapp::Demo::Two" : {
          "file" : "lib/CGI/Snapp/Demo/Two.pm",
-         "version" : "1.01"
+         "version" : "1.02"
       }
    },
    "release_status" : "stable",
    "resources" : {
       "license" : [
-         "http://opensource.org/licenses/artistic-license.php"
+         "http://www.perlfoundation.org/artistic_license_1_0"
       ]
    },
-   "version" : "1.01"
+   "version" : "1.02"
 }
